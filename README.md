@@ -6,7 +6,9 @@ As a newly hired data engineer at Pewlett Hackard, your first major task is to c
 
 This project involves designing tables to store data from the CSV files, importing them into a SQL database, and subsequently analyzing the data. The process includes data modeling, data engineering, and data analysis.
         
-Data Engineering
+
+
+## Data Engineering
 
 Used the provided information to create a table schema for each of the six CSV files. Ensure the following:
         Specify data types, primary keys, foreign keys, and other constraints.
