@@ -19,7 +19,7 @@ Data Modeling
 
 Entity Relationship Diagram (ERD):
         The CSV files were thoroughly inspected to create a detailed Entity Relationship Diagram to visualize the structure of the database tables.
-        Tools like [QuickDBD]([Links to an external site.](https://www.quickdatabasediagrams.com/)) were employed to facilitate the sketching of the ERD.
+        Tools like [QuickDBD]([QuickDBD](https://www.quickdatabasediagrams.com/)) were employed to facilitate the sketching of the ERD.
 
 Data Engineering
 
