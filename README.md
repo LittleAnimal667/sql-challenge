@@ -22,6 +22,9 @@ Entity Relationship Diagram (ERD):
         Tools like [QuickDBD](https://www.quickdatabasediagrams.com/)
  were employed to facilitate the sketching of the ERD.
 
+ ![image of ERD diagram](https://github.com/LittleAnimal667/sql-challenge/blob/main/QuickDBD-export.png?raw=true)
+
+
 ## Table Schema Creation:
 
 Utilizing the provided information, a robust table schema was meticulously crafted for each of the six CSV files.
