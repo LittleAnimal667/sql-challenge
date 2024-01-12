@@ -27,7 +27,7 @@ Entity Relationship Diagram (ERD):
 
 ## Table Schema Creation:
 
-Utilizing the provided information, a robust table schema was meticulously crafted for each of the six CSV files.
+Utilizing the provided information, a table schema was crafted for each of the six CSV files.
 Specific attention was given to data types, primary keys, foreign keys, and other constraints.
         
 In cases where primary keys lacked uniqueness, composite keys were created, requiring two primary keys to uniquely identify a row.
